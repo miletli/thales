@@ -1,2 +1,6 @@
+github.com/go-sql-driver/mysql v1.7.1 h1:lUIinVbN1DY0xBg0eMOzmmtGoHwWBbvnWubQUrtU8EI=
+github.com/go-sql-driver/mysql v1.7.1/go.mod h1:OXbVy3sEdcQ2Doequ6Z5BW6fXNQTmx+9S1MCJN5yJMI=
 github.com/miletli/thales v0.1.0 h1:JyUrkXl0TQZ3JU+5MX05/48YcfCaNZ73P8+zjjxRBeM=
 github.com/miletli/thales v0.1.0/go.mod h1:dYaLBNeSKWObhkWkU7tp0+Bchk9sgmqM5odN2Xr4mTo=
+github.com/miletli/thales v0.1.1 h1:Mc0l0n+eWPGA2g8mDAhvlLG3NrTtdGSb7cKqWY3IUi8=
+github.com/miletli/thales v0.1.1/go.mod h1:uhRAu6b5g+dNszQYOwrh/+OXQSjWndPDGuLhiWlL/3M=

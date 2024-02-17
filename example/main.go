@@ -5,5 +5,5 @@ import (
 )
 
 func main(){
-	thales.Open()
+	thales.O
 }
